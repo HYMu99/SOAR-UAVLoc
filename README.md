@@ -1,5 +1,9 @@
 # SOAR: Regression-based LiDAR Relocalization for UAVs
 
+**NeurIPS 2026** | 📄 Paper | [📄 arXiv](https://arxiv.org/abs/2602.13267) | 🖼️ Poster
+
+SOAR is a robust LiDAR-based relocalization framework specifically designed for UAVs under challenging aerial conditions. It introduces **Coordinate-Independent Point Cloud Serialization (CIPCS)** to reduce sensitivity to global transformations and **Locality-Preserving Sliding Window Attention (LoSWAtt)** to capture discriminative local geometric structures under large yaw rotations, altitude variations, and irregular flight trajectories. We further introduce **UAVLoc**, a large-scale real-world UAV LiDAR relocalization dataset with diverse scenes and challenging flight trajectories. Extensive experiments on UAVScenes and UAVLoc demonstrate that SOAR consistently outperforms existing LiDAR relocalization methods.
+
 This repository provides a demo release of the UAVLoc dataset introduced in our paper. The full UAVLoc dataset and the official implementation of SOAR will be released soon.
 
 ---
