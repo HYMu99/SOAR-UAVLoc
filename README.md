@@ -9,12 +9,12 @@ This repository provides a demo release of the UAVLoc dataset introduced in our 
 <table align="center">
 <tr>
 <td align="center">
-<img src="mesh/Lab.gif" width="350"><br>
+<img src="assets/Lab.gif" width="350"><br>
 Laboratory
 </td>
 
 <td align="center">
-<img src="mesh/Campus.gif" width="350"><br>
+<img src="assets/Campus.gif" width="350"><br>
 Campus
 </td>
 </tr>
@@ -23,12 +23,12 @@ Campus
 <table align="center">
 <tr>
 <td align="center">
-<img src="mesh/Town.gif" width="350"><br>
+<img src="assets/Town.gif" width="350"><br>
 Town
 </td>
 
 <td align="center">
-<img src="mesh/Road.gif" width="350"><br>
+<img src="assets/Road.gif" width="350"><br>
 Road
 </td>
 </tr>
@@ -83,7 +83,7 @@ UAVLoc_demo/
 <table align="center">
 <tr>
 <td align="center">
-<img src="figures/UAV.jpg" width="400"><br>
+<img src="assets/figures/UAV.jpg" width="400"><br>
 Data Collection Platform
 </td>
 </tr>
@@ -104,7 +104,7 @@ UAVLoc contains non-repetitive UAV flight paths, leading to partial spatial over
 <table align="center">
 <tr>
 <td align="center">
-<img src="figures/paths.png" width="400"><br>
+<img src="assets/figures/paths.png" width="400"><br>
 Flight trajectories in four scenes.
 </td>
 </tr>
@@ -129,7 +129,7 @@ The camera data are processed with DJI Terra to obtain high-precision UAV poses,
 <table align="center">
 <tr>
 <td align="center">
-<img src="figures/GT_small.jpg" width="400"><br>
+<img src="assets/figures/GT_small.jpg" width="400"><br>
 Verification of our GT against actual measurement landmarks.
 </td>
 </tr>
