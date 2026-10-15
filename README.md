@@ -1,6 +1,6 @@
 # SOAR: Regression-based LiDAR Relocalization for UAVs
 
-This repository provides a **demo version** of the UAVLoc dataset for the paper. The full UAVLoc dataset and SOAR's code will be released soon.
+This repository provides a demo release of the UAVLoc dataset introduced in our paper. The full UAVLoc dataset and the official implementation of SOAR will be released soon.
 
 ---
 
